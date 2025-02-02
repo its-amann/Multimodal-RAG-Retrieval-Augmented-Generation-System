@@ -1,0 +1,43 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+decision-making-course.mp4
+
+# Frames directory
+frames/
+frames/*
+
+# Audio files
+audios/
+audios/*
+*.mp3
+*.wav
+*.m4a
+*.aac
+
+# Transcripts
+transcripts/
+transcripts/*
+*.txt
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+.env
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
