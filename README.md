@@ -1,4 +1,4 @@
-# Multimodal RAG (Retrieval Augmented Generation) System
+# Multimodal RAG (Retrieval Augmented Generation) System 
 
 <div align="center">
 
