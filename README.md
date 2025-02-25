@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 Overview 
 This project implements a sophisticated Multimodal Retrieval Augmented Generation (RAG) system that processes both video and text data. The system is designed to analyze video content, extract frames, generate transcripts, and perform semantic search across multiple modalities (text and images).
 
 ## 📁 Project Structure
